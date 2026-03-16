@@ -1,0 +1,5 @@
+{
+  "name": "Firefly Rider",
+  "description": "A 2D vertical scrolling game prototype where you ride a firefly along a winding star path, avoiding obstacles and facing an Owl Guardian.",
+  "requestFramePermissions": []
+}
